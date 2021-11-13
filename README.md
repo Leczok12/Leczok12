@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Leczok12
+- 👀 I’m interested in programing and electronics
+- 🌱 I’m currently learning C++
